@@ -1,4 +1,4 @@
-## Template doesn't build when it contains String extension method 
+## Template build fails when it contains String extension method 
 
 To reproduce go to `app` folder and:
 1. Create a local copy of this repo (use the "Clone or download" button above).
