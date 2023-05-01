@@ -7,6 +7,8 @@ environment:
 
 dependencies:
   ngdart: ^7.1.1
+  facade:
+    path: ../facade
 
 # #docregion dev_dependencies, build-dependencies
 dev_dependencies:
