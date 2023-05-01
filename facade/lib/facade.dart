@@ -1,3 +1,3 @@
 library facade;
 
-export 'src/string_utils.dart';
+part 'src/string_utils.dart';
